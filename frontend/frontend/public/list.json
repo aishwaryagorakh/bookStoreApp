@@ -1,5 +1,11 @@
-[
+
+[ 
+   
+  
     {
+          "_comment": "******* ADD THIS DATA IN YOUR DATABASE*******", 
+
+
 "id":1,
 "name":"story book",
 "title":"very good book",
@@ -88,4 +94,4 @@
                                         "category":"free",
                                         "image":"https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?t=st=1717451930~exp=1717455530~hmac=1ce0d905e7b3e31950b48922ee78312f0dc55bfa763a2a8d4a98c2e93ac8f607&w=996"
                                        }
-]
+                                    ]
